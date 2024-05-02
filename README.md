@@ -1,2 +1,2 @@
 # Face-Mask-Detection
-Simple Django Interface and model which predict face with or without mask.
+This is a Django interface and model that predicts whether a person is wearing a mask or not. The model is created using a Convolutional Neural Network (CNN) for image classification and is trained on an open-source dataset obtained from Kaggle. The model uses data augmentation and loads pre-trained weights. Once an image is loaded, it predicts whether the person in the image is wearing a mask or not and displays the result.
